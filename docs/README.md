@@ -1,5 +1,5 @@
 # Overview
 
-TotoForest is it tree and graph traversal LINQ like functions library.
+TotoNode is a fast it tree and graph traversal LINQ like functions library.
 
-This repository has GitDocs documentation at /
+This repository has GitDocs documentation at [https://aycon-distributor.gitbook.io/totonode/](https://aycon-distributor.gitbook.io/totonode/)
